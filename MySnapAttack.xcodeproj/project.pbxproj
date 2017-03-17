@@ -14,6 +14,8 @@
 		E071D1DA1E7C985F00F31614 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E071D1D91E7C985F00F31614 /* Assets.xcassets */; };
 		E071D1DD1E7C985F00F31614 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E071D1DB1E7C985F00F31614 /* LaunchScreen.storyboard */; };
 		E071D1E81E7C985F00F31614 /* MySnapAttackTests.m in Sources */ = {isa = PBXBuildFile; fileRef = E071D1E71E7C985F00F31614 /* MySnapAttackTests.m */; };
+		E071D1F41E7C990900F31614 /* Cheveuxdange.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E071D1F21E7C990900F31614 /* Cheveuxdange.ttf */; };
+		E071D1F51E7C990900F31614 /* DK Cinnabar Brush.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E071D1F31E7C990900F31614 /* DK Cinnabar Brush.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +42,8 @@
 		E071D1E31E7C985F00F31614 /* MySnapAttackTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MySnapAttackTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E071D1E71E7C985F00F31614 /* MySnapAttackTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MySnapAttackTests.m; sourceTree = "<group>"; };
 		E071D1E91E7C985F00F31614 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E071D1F21E7C990900F31614 /* Cheveuxdange.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Cheveuxdange.ttf; sourceTree = "<group>"; };
+		E071D1F31E7C990900F31614 /* DK Cinnabar Brush.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "DK Cinnabar Brush.ttf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +101,8 @@
 		E071D1CD1E7C985F00F31614 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				E071D1F21E7C990900F31614 /* Cheveuxdange.ttf */,
+				E071D1F31E7C990900F31614 /* DK Cinnabar Brush.ttf */,
 				E071D1CE1E7C985F00F31614 /* main.m */,
 			);
 			name = "Supporting Files";
@@ -195,9 +201,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E071D1F51E7C990900F31614 /* DK Cinnabar Brush.ttf in Resources */,
 				E071D1DD1E7C985F00F31614 /* LaunchScreen.storyboard in Resources */,
 				E071D1DA1E7C985F00F31614 /* Assets.xcassets in Resources */,
 				E071D1D81E7C985F00F31614 /* Main.storyboard in Resources */,
+				E071D1F41E7C990900F31614 /* Cheveuxdange.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
